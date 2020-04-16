@@ -1,0 +1,8 @@
+pyenv/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+learn/
+fastText/
+.DS_Store
+testing_scripts.py
